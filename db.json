@@ -11,6 +11,48 @@
       "dia": "Lunes",
       "title": "Programacion de aplicaciones moviles",
       "Horario":"8:31 AM - 10:40 AM"
+    },
+    {
+      "id": 3,
+      "dia": "Lunes",
+      "title": "Ingles Intermedio",
+      "Horario":"15:11 PM - 16:40 PM"
+    },
+    {
+      "id": 4,
+      "dia": "Lunes",
+      "title": "Ingles Intermedio",
+      "Horario":"13:41 PM - 15:10 PM"
+    },
+    {
+      "id": 5,
+      "dia": "Martes",
+      "title": "Arquitectura",
+      "Horario":"10:41 AM - 12:10 PM"
+    },
+    {
+      "id": 6,
+      "dia": "Martes",
+      "title": "Etica para el trabajo",
+      "Horario":"12:11 PM - 13:40 PM"
+    },
+    {
+      "id": 7,
+      "dia": "Miércoles",
+      "title": "Programacion de aplicaciones moviles",
+      "Horario":"08:31 AM - 09:50 AM"
+    },
+    {
+      "id": 8,
+      "dia": "Miércoles",
+      "title": "Calidad de Software",
+      "Horario":"10:01 AM - 11:20 AM"
+    },
+    {
+      "id": 9,
+      "dia": "Miércoles",
+      "title": "Ingles Intermedio",
+      "Horario":"11:31 AM - 13:40 PM"
     }
   ],
   "profile": {
