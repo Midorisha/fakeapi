@@ -7,12 +7,6 @@
       "Horario":"8:31 AM - 10:40 AM"
     },
     {
-      "id": 2,
-      "dia": "Martes",
-      "title": "Arquitectura",
-      "Horario":"10:41 AM - 12:10 PM"
-    },
-    {
       "id": 3,
       "dia": "Lunes",
       "title": "Ingles Intermedio",
@@ -23,6 +17,12 @@
       "dia": "Lunes",
       "title": "Ingles Intermedio",
       "Horario":"13:41 PM - 15:10 PM"
+    },
+    {
+      "id": 2,
+      "dia": "Martes",
+      "title": "Arquitectura",
+      "Horario":"10:41 AM - 12:10 PM"
     },
     {
       "id": 5,
