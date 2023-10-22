@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "dia": "Martes",
+      "title": "Arquitectura",
+      "Horario":"10:41 AM - 12:10 PM"
+    },
+    {
+      "id": 2,
+      "dia": "Lunes",
+      "title": "Programacion de aplicaciones moviles",
+      "Horario":"8:31 AM - 10:40 AM"
     }
   ],
   "profile": {
